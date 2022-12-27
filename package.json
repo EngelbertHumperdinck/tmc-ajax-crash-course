@@ -1,0 +1,14 @@
+{
+  "name": "tmc-ajax-crash-course",
+  "version": "1.0.0",
+  "description": "Following along YouTube video tutorial 'AJAX Crash Course' by Brad Traversy of Traversy Media. Link: https://youtu.be/82hnvUYY6QA",
+  "main": "index.js",
+  "keywords": [
+    "AJAX",
+    "JavaScript",
+    "HTML",
+    "API"
+  ],
+  "author": "bigstevelittle <bigsteve@redandblackzone.com>",
+  "license": "ISC"
+}

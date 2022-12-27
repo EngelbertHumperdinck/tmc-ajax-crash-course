@@ -1,0 +1,12 @@
+# GLOBAL .GITIGNORE
+# To copy into a project directory: 
+# wget https://www.dropbox.com/s/6l7rl93t4r5fvo5/.gitignore 
+
+.dccache
+.DS_Store
+.vscode/
+archives/
+Icon?
+node_modules
+resources/
+vendor/
