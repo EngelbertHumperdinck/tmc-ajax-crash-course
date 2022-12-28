@@ -4,8 +4,8 @@
 Following along with YouTube video tutorial 'AJAX Crash Course' by Brad Traversy of Traversy Media. Video Link: https://youtu.be/82hnvUYY6QA.
 
 ## Badges
-![0% HTML](https://img.shields.io/static/v1?label=HTML&message=0%&color=orange)
-![0% JS](https://img.shields.io/static/v1?label=JS&message=0%&color=yellow)
+![24.5% HTML](https://img.shields.io/static/v1?label=HTML&message=24.5%&color=orange)
+![75.5% JS](https://img.shields.io/static/v1?label=JS&message=75.5%&color=yellow)
 
 ## Installation
 This is for practice so I'm installing json package files via NPM(Node Package Manager) with no dependencies so as to activate the snyk VS Code extension. NPM can be installed via a download from https://nodejs.org/en or as I have installed it using NVM(Node Version Manager).
@@ -36,5 +36,5 @@ YouTube Channel: https://www.youtube.com/c/TraversyMedia
 Video Link: https://youtu.be/82hnvUYY6QA
 
 ## Project Status
-![0% Complete](https://img.shields.io/static/v1?label=Completed&message=0%&color=green)
+![53% Complete](https://img.shields.io/static/v1?label=Completed&message=53%&color=green)
 Redoing this prior to doing more react work as it gives a good understanding of AJAX API in JavaScript.
