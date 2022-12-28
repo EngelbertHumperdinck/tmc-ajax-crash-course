@@ -13,6 +13,7 @@ This is for practice so I'm installing json package files via NPM(Node Package M
 To copy my git starter files README.md + .gitignore run these 2 statements in the command line (you will need to install the wget module which I did via Homebrew):
 
 wget -O README.md https://www.dropbox.com/s/8d05riwy7mb062p/READMETUT.md 
+
 wget https://www.dropbox.com/s/6l7rl93t4r5fvo5/.gitignore 
 
 I started a local instance of git and pushed it to an empty repo on GitHub with the following commands:
