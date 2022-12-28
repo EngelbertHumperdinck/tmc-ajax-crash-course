@@ -1,7 +1,7 @@
 // Invoke strict mode.
 "use strict";
 
-// TITLE.
+// Fetching Local JSON Using AJAX.
 
 // 1. 'btn-get-film' and 'btn-get-films': Set an event listener for when the button is clicked.
 document.getElementById('btn-get-film').addEventListener('click', loadFilm);

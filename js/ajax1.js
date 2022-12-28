@@ -1,7 +1,7 @@
 // Invoke strict mode.
 "use strict";
 
-// FETCHING A TEXT FILE USING AJAX.
+// Fetch Text File Using AJAX.
 
 // 1. 'addEventListener': adds an event listener for button click.
 document.getElementById('btn').addEventListener('click', loadText);
