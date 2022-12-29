@@ -31,7 +31,7 @@ function loadFilm() {
     // 2e. 'send': sends the JSON data to the screen.
     xhr.send();
 }
-// 3. 'loadFilm': function will use AJAX to fetch a film, load and display it.
+// 3. 'loadFilms': function will use AJAX to fetch a film, load and display it.
 function loadFilms() {
     // 3a. 'XMLHttpRequest': creates a new instance of the object.
     let xhr = new XMLHttpRequest();
